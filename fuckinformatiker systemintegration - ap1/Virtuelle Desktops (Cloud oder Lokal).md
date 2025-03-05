@@ -1,0 +1,6 @@
+- Cloudbasierte virtuelle Desktops
+	- zugänglich über das Internet, effizient für mobile und flexible Arbeitsumgebungen.
+	- zentralisierte Verwaltung und Sicherheit
+- Lokal bereitgestellte virtuelle Desktops
+	- Bereitstellung und Verwaltung auf firmen eigenen Servern
+	- bietet mehr Kontrolle kann aber höhere Betriebskosten verursachen
