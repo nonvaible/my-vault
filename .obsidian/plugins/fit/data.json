@@ -1,0 +1,12 @@
+{
+  "pat": "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",
+  "owner": "nonvaible",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/105860512?v=4",
+  "repo": "my-vault",
+  "branch": "",
+  "deviceName": "ARCHie-latitude",
+  "checkEveryXMinutes": 5,
+  "autoSync": "remind",
+  "notifyChanges": true,
+  "notifyConflicts": true
+}
