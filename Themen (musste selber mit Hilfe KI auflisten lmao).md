@@ -32,52 +32,52 @@
    - Cloudlösungen (Software as a Service, Infrastructure as a Service, Platform as a Service)
    - Virtualisierungen
    - Einteilung und Klassifikation von Anwendungssystemen
-   - Benutzeroberflächen
+   - ~~Benutzeroberflächen~~
    - Datenbanksysteme
    - Kommunikationssysteme
    - Netzwerkkomponenten (z.B. Router, Switch, Access Point)
-   - Netzwerkprotokolle (z.B. OSI-Modell, DNS, SMB, NFS, SMTP/IMAP/HTTP, IPSEC, TCP, UDP, SSH, DHCP, ARP, TLS)
+   - Netzwerkprotokolle (z.B. OSI-Modell, DNS, ~~SMB, NFS, SMTP/IMAP/HTTP, IPSEC, TCP, UDP, SSH, DHCP, ARP, TLS~~, IP)
    - Client-Server-Systeme
    - Einbindung in eine Domäne
    - Mobile Geräte (z.B. Smartphone, Tablet)
-   - Kenngrößen, Leistungsdaten, Funktionsumfang (z.B. BIOS, UEFI, RAM, Dateispeicher, RAID, etc.)
+   - Kenngrößen, Leistungsdaten, Funktionsumfang (z.B. BIOS, UEFI, RAM, Dateispeicher, ~~RAID~~, etc.)
    - Barrierefreier Zugriff auf IT-Systeme
    - Übertragungsraten, -Zeiten, Datenmengen von digitalisierten Dokumenten, Videos usw.
-   - Auslastung und Anpassungsfähigkeit/Erweiterbarkeit, Zukunftssicherheit
+   - ~~Auslastung und Anpassungsfähigkeit/Erweiterbarkeit, Zukunftssicherheit~~
    - Wertschöpfung
    - Lasten- und Pflichtenheft
    - Installation und Einrichtung von Systemen (z.B. Betriebssysteme, BIOS, UEFI, Partitionierungen, Formatierungen, Netzwerkanbindungen, IP-Konfiguration, Remotedesktop)
    - Geräteklassen (z.B. Desktops, Notebooks, Tablets, Smartphones)
-   - Mobile und stationäre Arbeitsplatzsysteme (z.B. PC, Terminals, LAN, WLAN, mobile Datenfunk (LTE/5G))
+   - Mobile und stationäre Arbeitsplatzsysteme (z.B. PC, Terminals, LAN, WLAN, ~~mobile Datenfunk (LTE/5G)~~)
    - Barrierefreiheit (z.B. Arbeitsplatz mit zweitem Monitor, Lautsprecher/Mikrofon zur Verfügung stellen)
    - Betriebssysteme (Einsatzzweck, Dateimanagement, Freigaben managen)
    - Branchensoftware
    - KI-Software
    - Grundlagen des Schutzes der Urheber
    - Konsolenbefehle für Dateioperationen und Netzwerktroubleshooting (z.B. dir, ls, mkdir, ipconfig, alias, iproute2, zip, del, cp, copy, chmod, ping, traceroute, nslookup)
-   - Klassen, Vererbung, Methoden
+   - Klassen, ~~Vererbung~~, Methoden
    - Skriptsprachen (z.B. Shell-Skript, Macros)
-   - Abbildung der Kontrollstrukturen mittels Struktogramm, PA oder Pseudocode als didaktisches Hilfsmittel
+   - Abbildung der Kontrollstrukturen ~~mittels Struktogramm, PAP~~ oder Pseudocode als didaktisches Hilfsmittel
    - UML (Use Case, Klassendiagramm)
    - Entwurf der Bildschirmausgabemasken (Softwareergonomie, Barrierefreiheit)
    - Fehler in einem gegebenen Quellcode finden
    - Schreibtests mit einem gegebenen Quellcode durchführen
    - Grundlagen von relationalen Datenbanken kennen und anwenden können
-   - SELECT bezogen auf eine Tabelle
+   - ~~SELECT bezogen auf eine Tabelle~~
 
-### 3. **Qualitätsmanagement**
-   - Qualitätsbegriff nach ISO 9000
-   - Audit
-   - Maßnahmen zur Verbesserung der Prozessqualität
-   - Maßnahmen zur Verbesserung der Arbeitsqualität
-   - Maßnahmen zur Verbesserung der Produkt- und Dienstleistungsqualität
-   - Kriterien der Softwarequalität (Funktionalität, Zuverlässigkeit, Benutzerfreundlichkeit, Effizienz, Änderbarkeit, Übertragbarkeit)
+### 3. **Qualitätsmanagement** (bis 7)
+   - ~~Qualitätsbegriff nach ISO 9000~~
+   - ~~Audit~~
+   - ~~Maßnahmen zur Verbesserung der Prozessqualität~~
+   - ~~Maßnahmen zur Verbesserung der Arbeitsqualität~~
+   - ~~Maßnahmen zur Verbesserung der Produkt- und Dienstleistungsqualität~~
+   - ~~Kriterien der Softwarequalität (Funktionalität, Zuverlässigkeit, Benutzerfreundlichkeit, Effizienz, Änderbarkeit, Übertragbarkeit)~~
    - Testprotokoll für das Einrichten eines Arbeitsplatzes
    - Gewährleistung von Verfügbarkeit, Vertraulichkeit und Integrität der Daten
    - Technisch-organisatorische Maßnahmen (z.B. IT-Sicherheitsbeauftragter im Betrieb, Erstellung einer IT-Sicherheitsrichtlinie, Passwort-Policy)
    - Benennung von technischen Maßnahmen (z.B. Virenschutzsystem, Firewall, Anti-Spam)
    - Personelle Maßnahmen, Sicherheitsbewusstsein herstellen
-   - Normen und Branchenstandards zur Informationssicherheit (z.B. ISO 2700x)
+   - ~~Normen und Branchenstandards zur Informationssicherheit (z.B. ISO 2700x)~~
    - BSI IT-Grundschutz
    - Datenschutzgesetze national und auf EU-Ebene (z.B. DSGVO, BDSG)
    - Rechte der Betroffenen, Konsequenzen der Einwilligung der Betroffenen
@@ -87,12 +87,12 @@
    - IT-Sicherheitsmanagementsystem implementieren
    - Betrieblicher IT-Sicherheitsbeauftragter
    - Risiko-Klassifikation mit Matrix
-   - Sicherung der Verfügbarkeit (z.B. RAID-Systeme, SAN)
+   - Sicherung der Verfügbarkeit ~~(z.B. RAID-Systeme, SAN)~~
    - Verschlüsselungstechniken (symmetrische und asymmetrische Verschlüsselung, CAs, Zertifikate, Digitale Signaturen, Techniken wie https, TLS)
    - Authentifizierung, Passwort-Policy (Authentifizierung mit Zwei-Faktor-Authentifizierung, Passwort-Policy bewerten)
    - Firewall, SSH vs. Telnet
    - Personal Firewall anpassen (z.B. Softwarezugriff über Internet sperren)
-   - Härting Betriebssystem (Schwachstellen schließen)
+   - Härtung Betriebssystem (Schwachstellen schließen)
 
 ### 4. **Vertragsmanagement**
    - Vertragsbestandteile (z.B. Leistungsbeschreibung, Termine, Entgelte, Lasten- und Pflichtenheft, Konventionalstrafen)
@@ -100,16 +100,16 @@
    - Ökologische, ökonomische, soziale Aspekte
    - Ökonomische Aspekte (z.B. Umsatz und Gewinn)
    - Soziale Aspekte (z.B. Arbeitsbedingungen)
-   - Abstimmen der dokumentierten Vorgaben zur Leistungserbringung während des gesamten Zeitraums mit dem Auftraggeber
-   - Kontinuierliche Prüfung der vertraglich vereinbarten Vorgaben
-   - Berücksichtigung der Stilllegung von Altsystemen und Inbetriebnahme der neuen Systeme
-   - Aufbewahrung von Archivdaten
-   - Vollständige Dokumentation der erbrachten Leistung
+   - ~~Abstimmen der dokumentierten Vorgaben zur Leistungserbringung während des gesamten Zeitraums mit dem Auftraggeber~~
+   - ~~Kontinuierliche Prüfung der vertraglich vereinbarten Vorgaben~~
+   - ~~Berücksichtigung der Stilllegung von Altsystemen und Inbetriebnahme der neuen Systeme~~
+   - ~~Aufbewahrung von Archivdaten~~
+   - ~~Vollständige Dokumentation der erbrachten Leistung~~
    - Kauf, Miete, Leasing
-   - Rolloutprozesse
-   - Vorberatung (Kunden-Onboarding, Scope festlegung, Formalitäten)
-   - Rolloutumsetzung (Integration von Schnittstellen, kundenspezifische Entwicklungen)
-   - Ticket-System
+   - ~~Rolloutprozesse~~
+   - ~~Vorberatung (Kunden-Onboarding, Scope festlegung, Formalitäten)~~
+   - ~~Rolloutumsetzung (Integration von Schnittstellen, kundenspezifische Entwicklungen)~~
+   - Ticketsystem
    - Inhalt des Budgets
 
 ### 5. **Dokumentation und Wartung**
