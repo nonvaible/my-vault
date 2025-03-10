@@ -2,14 +2,15 @@
 ### 1. **Projektmanagement** (1, 2)
    - Merkmale eines Projektes
    - SMART-Prinzip
-   - Projektphasen
+   - Projektphasen am Beispiel des Wasserfallmodells bzw. SCRUM definieren können
    - ~~Vorgehensmodelle~~
-   - Teambildung und -entwicklung
-   - Machbarkeit von Projekten
+   - Phasen der Teambildung und -entwicklung kennen
+   - Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen können
    - Vor- und Nachkalkulation
    - ~~Stammdaten und Bewegungsdaten~~
-   - Betriebswirtschaftliche Kennzahlen
-   - Supportanfragen
+   - Betriebswirtschaftliche Kennzahlen (z.B.: Umsatz, Gewinn, Deckungsbeitrag)
+   - KI-Unterstützung
+   - Support- und Serviceanfragen (First-, Second- und Thirdlevelsupport)
    - Angebotsbewertung
    - ~~Benchmarking~~
    - ~~Frage- und Antworttechnik~~
