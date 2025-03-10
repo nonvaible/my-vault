@@ -109,7 +109,7 @@
    - Kauf, Miete, Leasing
    - ~~Rolloutprozesse~~
    - ~~Vorberatung (Kunden-Onboarding, Scope festlegung, Formalitäten)~~
-   - ~~Rolloutumsetzung (Integration von Schnittstellen, kundenspezifische Entwicklungen)~~
+   - ~~Rolloutumsetzung (Integration von Schnittstellen, kunden[[spezifisch]]e Entwicklungen)~~
    - Ticketsystem
    - Inhalt des Budgets
 
