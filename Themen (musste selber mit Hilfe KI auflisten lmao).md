@@ -11,10 +11,10 @@
    - Betriebswirtschaftliche Kennzahlen (z.B.: Umsatz, Gewinn, Deckungsbeitrag)
    - KI-Unterstützung
    - Support- und Serviceanfragen (First-, Second- und Thirdlevelsupport)
-   - Angebotsbewertung
+   - Quantitative und qualitative Angebotsbewertung
    - ~~Benchmarking~~
    - ~~Frage- und Antworttechnik~~
-   - Medien zur Kundengespräche und Präsentationen
+   - Medien zur Kundenpräsentation und -Information, z.B. Kundengespräch via Webinaren (Situationsgerechte Kundenkommunikation)
    - ~~Eisbergsmodell~~
    - ~~Cross-Selling und Upselling~~
    - Kundenbedarf ermitteln und Angebote unterbreiten
