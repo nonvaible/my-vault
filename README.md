@@ -62,7 +62,6 @@
 - [ ] Schreibtischtest mit einem gegebenen Quellcode durchführen
 
 
-
 ### [[6. Datenbanken & Tabellen]]
 - [ ] Grundlagen von relationalen Datenbanken kennen und anwenden können
 - [ ] Testprotokoll für das Einrichten eines Arbeitsplatzes
