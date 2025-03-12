@@ -11,12 +11,12 @@
 ## Mini Inhaltsverzeichnis für die kommende Prüfung:
 
 ### [[1. Projektmanagement & Wirtschaftlichkeit]]
-- [ ] Merkmale eines Projekts
-- [ ] SMART-Prinzip
+- [x] Merkmale eines Projekts
+- [x] SMART-Prinzip
 - [ ] Projektphasen am Beispiel des Wasserfallmodells & Scrum definieren können
 - [ ] Phasen der Teambildung und Teamentwicklung kennen
-- [ ] Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen können
-- [ ] Vor- und Nachkalkulation
+- [x] Machbarkeit und Wirtschaftlichkeit von Projekten beurteilen können
+- [x] Vor- und Nachkalkulation
 - [ ] Betriebswirtschaftliche Kennzahlen (z.B. Umsatz, Gewinn, Deckungsbeitrag)
 - [ ] Wertschöpfung
 
