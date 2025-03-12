@@ -42,15 +42,15 @@
 - [x] Installation und Einrichtung von Systemen (Betriebssysteme, BIOS/UEFI, Netzwerkanbindungen, Remote-Desktop, Partitionierung)
 
 ### [[4. Netzwerktechnik & IT-Infrastruktur]]
-- [ ] Netzwerkkompetenzen (z.B. Router, Switch, Accesspoint)
-- [ ] Netzwerkprotokolle (z.B. Ethernet, IP, DNS) und OSI-Modell
+- [x] Netzwerkkompetenzen (z.B. Router, Switch, Accesspoint)
+- [x] Netzwerkprotokolle (z.B. Ethernet, IP, DNS) und OSI-Modell
 - [ ] IPv4 & IPv6
-- [ ] Client-Server-Systeme
-- [ ] Einbindung eines PCs in eine Windows-Domäne
-- [ ] Mobile Geräte (z.B. Smartphone, Tablet)
-- [ ] Kenngrößen & Leistungsdaten (z.B. CPU, RAM, Datenspeicher, SSD HDD, Filesysteme, Netzwerkkarte, WLAN-Standards)
-- [ ] Übertragungsraten, -zeiten und Datenmengen berechnen
-- [ ] Mobile und stationäre Arbeitsplatzsysteme (z.B. Terminals, LAN, WLAN)
+- [x] Client-Server-Systeme
+- [x] Einbindung eines PCs in eine Windows-Domäne
+- [x] Mobile Geräte (z.B. Smartphone, Tablet)
+- [x] Kenngrößen & Leistungsdaten (z.B. CPU, RAM, Datenspeicher, SSD HDD, Filesysteme, Netzwerkkarte, WLAN-Standards)
+- [x] Übertragungsraten, -zeiten und Datenmengen berechnen
+- [x] Mobile und stationäre Arbeitsplatzsysteme (z.B. Terminals, LAN, WLAN)
 
 ### [[5. Programmierung & Softwareentwicklung]]
 - [ ] UML-Diagramme (Use Case, Aktivitätsdiagramm, Klassendiagramm)
