@@ -53,7 +53,7 @@
 - [x] Mobile und stationäre Arbeitsplatzsysteme (z.B. Terminals, LAN, WLAN)
 
 ### [[5. Programmierung & Softwareentwicklung]]
-- [ ] UML-Diagramme (Use Case, Aktivitätsdiagramm, Klassendiagramm)
+- [x] UML-Diagramme (Use Case, Aktivitätsdiagramm, Klassendiagramm)
 - [ ] Entwurf von Bildschirmausgabemasken (Softwareergonomie, Corporate Identity, Barrierefreiheit)
 - [ ] Klassen, Attribute, Objekte, Methoden, Sichtbarkeit
 - [ ] Skriptsprachen (z.B. Shell-Skripte)
