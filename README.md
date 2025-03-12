@@ -54,9 +54,9 @@
 
 ### [[5. Programmierung & Softwareentwicklung]]
 - [x] UML-Diagramme (Use Case, Aktivitätsdiagramm, Klassendiagramm)
-- [ ] Entwurf von Bildschirmausgabemasken (Softwareergonomie, Corporate Identity, Barrierefreiheit)
-- [ ] Klassen, Attribute, Objekte, Methoden, Sichtbarkeit
-- [ ] Skriptsprachen (z.B. Shell-Skripte)
+- [x] Entwurf von Bildschirmausgabemasken (Softwareergonomie, Corporate Identity, Barrierefreiheit)
+- [x] Klassen, Attribute, Objekte, Methoden, Sichtbarkeit
+- [x] Skriptsprachen (z.B. Shell-Skripte)
 - [ ] Abbildung von Kontrollstrukturen (z.B. Verzweigungen, Schleifen) mittels Pseudocode
 - [ ] Fehler in einem gegebenen Quellcode finden
 - [ ] Schreibtischtest mit einem gegebenen Quellcode durchführen
