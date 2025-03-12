@@ -21,25 +21,25 @@
 - [ ] Wertschöpfung
 
 ### [[2. Kundenkommunikation & Support]]
-- [ ] Support & Serviceanfragen (First-, Second- und Third-Level-Support)
-- [ ] Situationsgerechte Kundenkommunikation (z.B. Kundengespräch via Webinar)
-- [ ] Kundenbedarf ermitteln und Angebote unterbreiten
-- [ ] Quantitative und qualitative Angebotsbewertung
-- [ ] Interpretation englischsprachiger Texte
-- [ ] Technische und kaufmännische Texte in deutscher und englischer Sprache
-- [ ] Präsentation und Medienkompetenz
+- [x] Support & Serviceanfragen (First-, Second- und Third-Level-Support)
+- [x] Situationsgerechte Kundenkommunikation (z.B. Kundengespräch via Webinar)
+- [x] Kundenbedarf ermitteln und Angebote unterbreiten
+- [x] Quantitative und qualitative Angebotsbewertung
+- [x] Interpretation englischsprachiger Texte
+- [x] Technische und kaufmännische Texte in deutscher und englischer Sprache
+- [x] Präsentation und Medienkompetenz
 
 ### [[3. Software & IT-Systeme]]
-- [ ] Standardsoftware (z.B. Office-Pakete, Datenbank-Managementsysteme, Browser)
-- [ ] Branchensoftware (z.B. ERP-Systeme, Supply Chain Management(SCM), Customer Relationship(CRM))
-- [ ] Systemsoftware
-- [ ] Entwicklungssysteme (z.B. Compiler, virtuelle Maschinen, Interpreter, Editoren, Debugger)
-- [ ] Cloudlösungen (z.B. Software as a Service, Desktop as a Service (Platform as a Service))
-- [ ] Virtuelle Desktops (Cloud oder lokal)
-- [ ] Einteilung und Klassifikation von Anwendungssystemen (z.B. CRM, ERP)
-- [ ] Kommunikationssysteme (z.B. Videokonferenzsysteme, Social-Media-Systeme)
-- [ ] Barrierefreier Zugriff auf IT-Systeme (z.B. Webseiteneinstellungen)
-- [ ] Installation und Einrichtung von Systemen (Betriebssysteme, BIOS/UEFI, Netzwerkanbindungen, Remote-Desktop, Partitionierung)
+- [x] Standardsoftware (z.B. Office-Pakete, Datenbank-Managementsysteme, Browser)
+- [x] Branchensoftware (z.B. ERP-Systeme, Supply Chain Management(SCM), Customer Relationship(CRM))
+- [x] Systemsoftware
+- [x] Entwicklungssysteme (z.B. Compiler, virtuelle Maschinen, Interpreter, Editoren, Debugger)
+- [x] Cloudlösungen (z.B. Software as a Service, Desktop as a Service (Platform as a Service))
+- [x] Virtuelle Desktops (Cloud oder lokal)
+- [x] Einteilung und Klassifikation von Anwendungssystemen (z.B. CRM, ERP)
+- [x] Kommunikationssysteme (z.B. Videokonferenzsysteme, Social-Media-Systeme)
+- [x] Barrierefreier Zugriff auf IT-Systeme (z.B. Webseiteneinstellungen)
+- [x] Installation und Einrichtung von Systemen (Betriebssysteme, BIOS/UEFI, Netzwerkanbindungen, Remote-Desktop, Partitionierung)
 
 ### [[4. Netzwerktechnik & IT-Infrastruktur]]
 - [ ] Netzwerkkompetenzen (z.B. Router, Switch, Accesspoint)
