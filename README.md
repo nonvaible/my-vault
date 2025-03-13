@@ -1,14 +1,17 @@
 %% BENUTZE OBSIDIAN! %%
 ## Überblick
-- Das sind die Themen aus dem [IT Berufe Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/).
+- Das sind die Themen aus dem [IT Berufe Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) + werde noch zusätzlich von Prüfungskatalog was hinzufügen
 - #allgemeineänderungen **SQL** kommt erst in **AP2**.
 - #allgemeineänderungen dieser Katalog gilt ab **Frühjahr 2025** für die Gestreckte Abschlussprüfung Teil 1 **(AP1)**
 - #allgemeineänderungen Themen wurden umstrukturiert
 - #allgemeineänderungen Nicht-relationale **(NoSQL) Datenbanken** wurden aus dem Katalog **entfernt**
 - #allgemeineänderungen **Mehr Praxisbezug** durch realitätsnahe Prüfungsfragen
+- #quellen [Fachinformatiker Prüfungsvorbereitung](https://fachinformatikerpruefungsvorbereitung.de/) , [IT Berufe Podcast](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/) und Tutoren sowie was ich in der Schule gelernt habe... (-:
+- #wichtig Es ist nicht vollständig also daher bitte ich um, falls da was falsches drin ist oder fehlend ist dann schreibt mir per Mail an (pruefung-git@pm.me oder wenn dringend nonvaible@pm.me)
 
 
 ## Mini Inhaltsverzeichnis für die kommende Prüfung:
+(auch [[Themen (again)]])
 
 ### [[1. Projektmanagement & Wirtschaftlichkeit]]
 - [x] Merkmale eines Projekts
