@@ -257,4 +257,60 @@ Lernfelder: #LF3, #LF5, #LF6
 - Betriebliche Qualitätssicherungssysteme im eigenen Arbeitsbereich anwenden und Qualitätssicherungsmaßnahme projektbegleitend durchführen und dokumentieren
 
 ---
-## Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz
+## 6. Umsetzen, Integrieren und Prüfen von Maßnahmen zur IT-Sicherheit und zum Datenschutz
+Lernfelder: #LF4
+
+### ==***Themenkreis:***==
+
+#### 6.1 Regelungen zur IT-Sicherheit auf Grundschutzniveau im eigenen Arbeitsbereich analysieren, anwenden und ihre Einhaltung überprüfen
+- Gewährleistung von Verfügbarkeit, Vertraulichkeit und Integrität der Daten
+- Maßnahmen zur Informationssicherheit
+    - Technisch organisatorische Maßnahmen (TOM)
+    - Unterscheidung von IT-Sicherheitsbeauftragtem und Datenschutzbeauftragtem im Betrieb
+    - Erläuterung von IT-Sicherheitsrichtlinien wie Passwort-Policy
+    - Benennung von technischen Maßnahmen, z. B. Virenschutz, Personal Firewall, Verschlüsselung (inkl. Unterscheidung symmetrisch, asymmetrisch und hybrid)
+    - personelle Maßnahmen, Entwicklung des Sicherheitsbewusstseins
+    - Auszüge aus BSI IT-Grundschutz-Kompendium
+- Einhaltung der Grundzüge der Datenschutzgesetze, national und auf EU-Ebene, z. B. DSGVO, BDSG überprüfen
+    - Definition von personenbezogenen Daten
+    - Rechte der Betroffenen, Konsequenzen der Einwilligung der Betroffenen kennen
+    - Maßnahmen wie Anonymisierung und Pseudonymisierung
+
+
+
+#### 6.2 Schutzbedarfsanalyse im eigenen Arbeitsbereich aufgrund betrieblicher Vorgaben nach BSI IT-Grundschutz durchführen
+- Schutzbedarfsanalyse für...:
+    - Anwendungen
+    - IT-Systeme
+    - Räume, Infrastruktur
+    - Kommunikationsverbindungen
+
+
+
+#### 6.3 Modellierung eines arbeitsplatzbezogenen Sicherheitskonzeptes nach BSI IT-Grundschutz
+- Bausteine aus dem Grundschutzkatalog
+- Schutzbedarfskategorien (normal, hoch, sehr hoch) ableiten und begründen
+- Risiko-Klassifikation, z. B. mit Matrix
+- Informations-Sicherheitsmanagementsystem (ISMS) kennen und unterstützen
+
+
+#### 6.4 Umsetzung des arbeitsplatzbezogenen Sicherheitskonzeptes unterstützen könn­en
+- Schaffung eines Sicherheitsbewusstseins bei den Mitarbeitern, z. B. Security by Design, Security by Default
+- IT-Sicherheitsmanagement
+- Durch technische (infrastrukturelle), organisatorische und personelle Schutzmaßnahmen
+- Härtung Betriebssystem (Schwachstellen schließen)
+- Datensicherung/Backup-Verfahren
+- Sicherung der Verfügbarkeit, z. B. NAS - Zugangs- und Zugriffskontrolle
+- Verschlüsselungstechniken kennen (symmetrische, asymmetrische und hybride Verschlüsselung)
+- Hashwerte, Zertifikate und digitale Signaturen verwenden
+- Authentifizierung (z. B. Zweifaktor) kennen, Passwort-Policy bewerten
+- Personal Firewall anpassen, z. B. Softwarezugriff auf Internet sperren
+
+### ==**Beispiele**== für betriebliche Handlungen/ Qualifikationen
+
+Betriebliche Vorgaben und rechtliche Regelungen zur IT-Sicherheit und zum Datenschutz einhalten Sicherheitsanforderungen von IT-Systemen analysieren und Maßnahmen zur IT-Sicherheit ableiten, abstimmen, umsetzen und evaluieren
+
+---
+## Erbringen der Leistungen und Auftragsabschluss
+Lernfelder: #LF2, #LF3, #LF6, #LF7 
+
