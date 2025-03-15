@@ -13,7 +13,7 @@
 ## Mini Inhaltsverzeichnis für die kommende Prüfung:
 (auch [[Themen (again)]])
 
-### [[1. Projektmanagement & Wirtschaftlichkeit]]
+### [[1. Merkmale und Methoden des Projektmanagements kennen, beurteilen, anwenden können]]
 - [x] Merkmale eines Projekts
 - [x] SMART-Prinzip
 - [ ] Projektphasen am Beispiel des Wasserfallmodells & Scrum definieren können
@@ -22,6 +22,7 @@
 - [x] Vor- und Nachkalkulation
 - [ ] Betriebswirtschaftliche Kennzahlen (z.B. Umsatz, Gewinn, Deckungsbeitrag)
 - [ ] Wertschöpfung
+
 
 ### [[2. Kundenkommunikation & Support]]
 - [x] Support & Serviceanfragen (First-, Second- und Third-Level-Support)
@@ -60,9 +61,9 @@
 - [x] Entwurf von Bildschirmausgabemasken (Softwareergonomie, Corporate Identity, Barrierefreiheit)
 - [x] Klassen, Attribute, Objekte, Methoden, Sichtbarkeit
 - [x] Skriptsprachen (z.B. Shell-Skripte)
-- [ ] Abbildung von Kontrollstrukturen (z.B. Verzweigungen, Schleifen) mittels Pseudocode
-- [ ] Fehler in einem gegebenen Quellcode finden
-- [ ] Schreibtischtest mit einem gegebenen Quellcode durchführen
+- [x] Abbildung von Kontrollstrukturen (z.B. Verzweigungen, Schleifen) mittels Pseudocode
+- [x] Fehler in einem gegebenen Quellcode finden
+- [x] Schreibtischtest mit einem gegebenen Quellcode durchführen
 
 
 ### [[6. Datenbanken & Tabellen]]
